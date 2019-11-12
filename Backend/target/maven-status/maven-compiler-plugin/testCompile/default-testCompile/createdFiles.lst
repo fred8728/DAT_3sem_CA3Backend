@@ -1,0 +1,3 @@
+utils\SettingsTest.class
+facades\FacadeExampleTest.class
+rest\LoginEndpointTest.class
